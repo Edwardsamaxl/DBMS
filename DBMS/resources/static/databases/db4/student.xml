@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><student><column>
+        <sno type="varchar(8)"/>
+    
+    <ssex type="varchar(2)"/>
+    <totalcredit type="smallint"/>
+    <createdby type="varchar(8)"/>
+    <classno type="varchar(6)"/>
+    <sbirthday type="date"/>
+    <age type="int"/>
+    <addr type="varchar(25)"/>
+    <email type="varchar(20)"/>
+    </column>
+    
+    
+
+<column>
+        <sno>003</sno>
+
+<ssex>m</ssex>
+<totalcredit>130</totalcredit>
+<createdby>admin</createdby>
+<classno>c001</classno>
+<sbirthday>1997-09-25</sbirthday>
+<age>24</age>
+<addr>789 oak st</addr>
+    </column>
+<column>
+        <sno>004</sno>
+
+<ssex>m</ssex>
+<totalcredit>100</totalcredit>
+<createdby>admin</createdby>
+<classno>c003</classno>
+<sbirthday>1998-11-30</sbirthday>
+<age>23</age>
+<addr>101 pine st</addr>
+    </column>
+<column>
+        <sno>005</sno>
+
+<ssex>f</ssex>
+<totalcredit>115</totalcredit>
+<createdby>admin</createdby>
+<classno>c002</classno>
+<sbirthday>1999-01-05</sbirthday>
+<age>22</age>
+<addr>202 cedar st</addr>
+    </column>
+<column>
+        <sno>006</sno>
+
+<ssex>m</ssex>
+<totalcredit>125</totalcredit>
+<createdby>admin</createdby>
+<classno>c001</classno>
+<sbirthday>2000-03-10</sbirthday>
+<age>21</age>
+<addr>303 maple st</addr>
+    </column>
+<column>
+        <sno>007</sno>
+
+<ssex>f</ssex>
+<totalcredit>105</totalcredit>
+<createdby>admin</createdby>
+<classno>c003</classno>
+<sbirthday>2001-05-15</sbirthday>
+<age>20</age>
+<addr>404 birch st</addr>
+    </column>
+<column>
+        <sno>008</sno>
+
+<ssex>m</ssex>
+<totalcredit>135</totalcredit>
+<createdby>admin</createdby>
+<classno>c002</classno>
+<sbirthday>2002-07-20</sbirthday>
+<age>19</age>
+<addr>505 walnut st</addr>
+    </column>
+<column>
+        <sno>009</sno>
+
+<ssex>f</ssex>
+<totalcredit>95</totalcredit>
+<createdby>admin</createdby>
+<classno>c001</classno>
+<sbirthday>2003-09-25</sbirthday>
+<age>18</age>
+<addr>606 sycamore st</addr>
+    </column>
+<column>
+        <sno>010</sno>
+
+<ssex>m</ssex>
+<totalcredit>145</totalcredit>
+<createdby>admin</createdby>
+<classno>c003</classno>
+<sbirthday>2004-11-30</sbirthday>
+<age>17</age>
+<addr>707 pineapple st</addr>
+    </column>
+<column>
+        <sno>011</sno>
+
+<ssex>f</ssex>
+<totalcredit>85</totalcredit>
+<createdby>admin</createdby>
+<classno>c002</classno>
+<sbirthday>2005-01-05</sbirthday>
+<age>16</age>
+<addr>808 banana st</addr>
+    </column>
+<column>
+        <sno>012</sno>
+
+<ssex>m</ssex>
+<totalcredit>155</totalcredit>
+<createdby>admin</createdby>
+<classno>c001</classno>
+<sbirthday>2006-03-10</sbirthday>
+<age>15</age>
+<addr>909 coconut st</addr>
+    </column>
+<column>
+        <sno>013</sno>
+
+<ssex>f</ssex>
+<totalcredit>75</totalcredit>
+<createdby>admin</createdby>
+<classno>c003</classno>
+<sbirthday>2007-05-15</sbirthday>
+<age>14</age>
+<addr>101 cherry st</addr>
+    </column>
+<column>
+        <sno>014</sno>
+
+<ssex>m</ssex>
+<totalcredit>165</totalcredit>
+<createdby>admin</createdby>
+<classno>c002</classno>
+<sbirthday>2008-07-20</sbirthday>
+<age>13</age>
+<addr>202 grape st</addr>
+    </column>
+<column>
+        <sno>015</sno>
+
+<ssex>f</ssex>
+<totalcredit>65</totalcredit>
+<createdby>admin</createdby>
+<classno>c001</classno>
+<sbirthday>2009-09-25</sbirthday>
+<age>12</age>
+<addr>303 orange st</addr>
+    </column>
+<column>
+        <sno>016</sno>
+
+<ssex>m</ssex>
+<totalcredit>175</totalcredit>
+<createdby>admin</createdby>
+<classno>c003</classno>
+<sbirthday>2010-11-30</sbirthday>
+<age>11</age>
+<addr>404 lemon st</addr>
+    </column>
+<column>
+        <sno>017</sno>
+
+<ssex>f</ssex>
+<totalcredit>55</totalcredit>
+<createdby>admin</createdby>
+<classno>c002</classno>
+<sbirthday>2011-01-05</sbirthday>
+<age>10</age>
+<addr>505 lime st</addr>
+    </column>
+<column>
+        <sno>018</sno>
+
+<ssex>m</ssex>
+<totalcredit>185</totalcredit>
+<createdby>admin</createdby>
+<classno>c001</classno>
+<sbirthday>2012-03-10</sbirthday>
+<age>9</age>
+<addr>606 kiwi st</addr>
+    </column>
+<column>
+        <sno>019</sno>
+
+<ssex>f</ssex>
+<totalcredit>45</totalcredit>
+<createdby>admin</createdby>
+<classno>c003</classno>
+<sbirthday>2013-05-15</sbirthday>
+<age>8</age>
+<addr>707 papaya st</addr>
+    </column>
+<column>
+        <sno>020</sno>
+
+<ssex>m</ssex>
+<totalcredit>195</totalcredit>
+<createdby>admin</createdby>
+<classno>c002</classno>
+<sbirthday>2014-07-20</sbirthday>
+<age>7</age>
+<addr>808 mango st</addr>
+    </column>
+</student>
